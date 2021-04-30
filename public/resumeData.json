@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "Isha Narula",
+    "occupation": "Front-End Web Developer",
+    "description": "I am having a penchant for Web Development...",
+    "image": "IshaNarula.jpg",
+    "bio": "I am currently pursuing my Masters In Computer Science from State University Of New York At Buffalo.I am having a penchant for Web Development.I am currently seeking internship opportunities for Summer 2021.You can check my GitHub profile to see some of my relevant works in MERN Stack.My hobbies include playing Badminton, reading Dan Brown Novels and watching series.I am a firm believer that Chnage does not happen when circumstances change, it happens only when you decide to change the circumstances!!",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "ishanaru@buffalo.edu",
+    "phone": "716-704-2852",
+    "address": {
+      "street": "29 Heath Street",
+      "city": "Buffalo",
+      "state": "New York",
+      "zip": "14214"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/10Om0vy39rsOr2XlqseNrfec8mAhGPd4y/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100013113872862",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/isha-narula/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/isha-narula",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "The State University Of New York At Buffalo",
+        "degree": "Masters In Computer Science",
+        "graduated": "Currently pursuing",
+        "description": "Currently pursuing Masters In Computer Science at State University Of New York At Buffalo.My coursework includes Introduction To Machine Learning, Data Intensive Computing, Modern Network Concepts, Software Engineering"
+      },
+      {
+        "school": "Chitkara University",
+        "degree": "Bachelor's In Computer Science",
+        "graduated": "2016-2020",
+        "description": "I had completed my Bachelor's In Computer Science from  Chitkara University.My coursework included Data Structures,Database Management System,Operating Systems,Cybersecurity Fundamentals!"
+      }
+    ],
+    "work": [
+      {
+        "company": "Optiphoenix",
+        "title": "Front-End Web Developer Intern",
+        "years": "August 2020-December 2020",
+        "description": "I had worked as a Front End Web Development Intern at Optiphoenix for six months. Developed new features of web application using HTML, CSS, Java Script to increase user time on the  web page by four minutes for clients such as Canon and Orange.Worked with development team to create test plans for enhancements and fixes of the applications and  edited existing codes to improve browser compatibility and mobile responsiveness.Collaborated with senior developers to write code from scratch in HTML, Java Script and React and  participated in weekly scrum meetings to present design ideas and showcase finished applications."
+      },
+      {
+        "company": "Chitkara University Research and Innovation Network",
+        "title": "Research Intern",
+        "years": "October 2019 - March 2020",
+        "description": "Collected datasets for Prosopis Juliflora plant from 200+ research papers.Implemented Machine Learning Models on AWS Sage Maker Tool.Presented a research paper titled “Using Machine Learning Techniques for analyzing properties of  Prosopis Juliflora plant” at Amity University. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
+      }
+
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "E-Commerce Phone Application Using React and Node JS",
+        "category": "Personal Projects",
+        "image":"E-Commerce.png",
+        "url": "https://fervent-elion-162f9e.netlify.app/"
+      },
+      {
+        "title": "Manchester United Football Application",
+        "category": "Personal Projects",
+        "image":"Football.png",
+        "url": "https://fervent-elion-162f9e.netlify.app/"
+      },
+      {
+        "title": "Personal Website",
+        "category": "Personal Projects",
+        "image":"PortFolio.png",
+        "url": "https://fervent-elion-162f9e.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
